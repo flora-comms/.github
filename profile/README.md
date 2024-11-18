@@ -1,7 +1,6 @@
 # FLoRa Communications
 
-Hello! We are FLoRa Communications.
-We are three Electronics and Computer Engineering Technology students at Camosun College in Victoria, BC, Canada, and this is our capstone semester project.
+Hello! We are FLoRa Communications, three Electronics and Computer Engineering Technology students at Camosun College in Victoria, BC, Canada, and this is our capstone semester project.
 We are building an emergency communications network that can extend cellular coverage deep into remote wilderness areas, is accessible for anyone with a smartphone, and for the fraction of the cost of a cellular network upgrade.
 
 We are currently building a proof-of-concept prototype called the Petal Radio (see photo below) and a network stack & web application called AVAlink. 
